@@ -5,7 +5,6 @@
         <p>A simple C++ backend for Scripture use.</p>
         <hr/>
     </header>
-    <main>
         <div id="what">
             <h2>What is ScripLib?</h2>
             <p>
@@ -40,5 +39,4 @@
                 is provided in ScripLib. Have fun with your implementation!
             </p>
         </div>
-    </main>
 </body>
